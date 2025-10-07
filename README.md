@@ -84,8 +84,8 @@ Senti knows everything about:
    ├─ Crypto royalties
    └─ Community governance
 Making the Sentient Grid accessible to everyone, one conversation at a time.
-• Website:  
+• Website:  https://daveblaq08.github.io/Senti-Roma-Bot/
 • GitHub: https://github.com/Daveblaq08  
 • Discord: dave4624
 • Twitter: https://x.com/daveblaq08
-Made with 💜 for the Sentient community
+**Made with 💜 for the Sentient community**
