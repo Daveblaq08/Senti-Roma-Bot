@@ -83,3 +83,9 @@ Senti knows everything about:
    ├─ Open, Monetizable, Loyal principles
    ├─ Crypto royalties
    └─ Community governance
+Making the Sentient Grid accessible to everyone, one conversation at a time.
+• Website:  
+• GitHub: https://github.com/Daveblaq08  
+• Discord: dave4624
+• Twitter: https://x.com/daveblaq08
+Made with 💜 for the Sentient community
