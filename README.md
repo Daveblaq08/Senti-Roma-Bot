@@ -5,7 +5,8 @@ By simply connecting your data source, Senti instantly transforms into a **conte
 
 > “Senti turns your ecosystem’s knowledge into a conversational experience.”
 
-<img width="1283" height="988" alt="Screenshot 2025-10-09 212840" src="https://github.com/user-attachments/assets/7caee760-9365-44c9-ba9f-9feb5173c56c" />
+<img width="992" height="979" alt="Screenshot 2025-10-09 220651" src="https://github.com/user-attachments/assets/daa67c10-1db9-4785-9a01-168f0ae0bc4d" />
+
 
 ---
 
