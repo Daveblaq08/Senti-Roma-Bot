@@ -1,91 +1,54 @@
-# Senti-Roma-Bot
-🧭 Senti — an AI-powered personal guide that helps users explore and interact with the Sentient ecosystem. Built with ROMA integration support. Senti makes navigating the Sentient Grid effortless. Get instant, accurate answers about ODS, ROMA, Dobby-8B, and the entire Sentient ecosystem - powered by AI that actually understands what you're asking.
+# 🤖 Senti — The Universal Ecosystem Chatbot Framework
 
-<img width="552" height="808" alt="Screenshot 2025-10-07 145405" src="https://github.com/user-attachments/assets/33c51241-89b7-4bc1-b6ac-6bff42c6308d" />
+Senti is an open, modular AI chatbot framework designed to help **any ecosystem, community, or platform** integrate an intelligent assistant effortlessly.  
+By simply connecting your data source, Senti instantly transforms into a **context-aware guide** for your ecosystem — helping users navigate, learn, and interact seamlessly.
 
+> “Senti turns your ecosystem’s knowledge into a conversational experience.”
 
-🎯**The Problem:**
-Building and navigating complex AI ecosystems shouldn't require a PhD in documentation archaeology.
-What Users Face Today:
+<img width="1283" height="988" alt="Screenshot 2025-10-09 212840" src="https://github.com/user-attachments/assets/7caee760-9365-44c9-ba9f-9feb5173c56c" />
 
-😫 **Lost in Documentation**
-   ├─ Scattered across multiple sites
-   ├─ Outdated or incomplete
-   └─ No clear starting point
+---
 
-🤷 **No Clear Path Forward**
-   ├─ "Where do I even start?"
-   ├─ "Which product do I need?"
-   └─ "How do these fit together?"
+## 🌍 Vision
 
-⏰ **Wasted Time Searching**
-   ├─ Hours digging through docs
-   ├─ Jumping between Discord, forums, GitHub
-   └─ Still no clear answers
+In a world filled with complex platforms, **Senti** simplifies how users interact with information.  
+It acts as an **AI-native interface layer** — enabling organizations, ecosystems, or projects to deploy a **fully-customized chatbot** that understands *their* data, *their* users, and *their* goals.
 
-❌ **High Abandonment Rate**
-   ├─ 70% of newcomers leave confused
-   ├─ Developers can't find integration guides
-   └─ Community can't explain it simply
+---
 
- ** ✨ The Solution**
-Senti is your always-available AI guide that knows everything about the Sentient Grid and explains it in a way that actually makes sense.
-How Senti Helps:
+## ✨ Key Features
 
-✅ Instant Answers
-   └─ Ask anything, get accurate responses in seconds
+| Feature | Description |
+|----------|--------------|
+| 🧠 **Plug-and-Play Integration** | Any ecosystem can connect its own data (APIs, docs, files, etc.) to create a customized chatbot. |
+| 🔗 **Dynamic Knowledge Injection** | Senti automatically learns from your data sources and updates in real time. |
+| 💬 **Multi-Ecosystem Support** | Deploy multiple instances — one Senti per ecosystem — each with unique data and identity. |
+| 🎨 **Custom Branding & Personality** | Configure tone, logo, and name to align with your ecosystem’s style. |
+| ⚙️ **Modular Framework** | Built with a flexible architecture — easy to extend or embed in web, mobile, or desktop environments. |
+| 🚀 **Vector-Powered Retrieval** | Uses embeddings for intelligent context retrieval and natural answers from large data sources. |
+| 🧩 **Agent-Compatible** | Can integrate with existing agent frameworks like Sentient, LangChain, or SmolAgents. |
 
-✅ Context-Aware Guidance
-   └─ Knows what page you're on and what you need
+---
 
-✅ Step-by-Step Help
-   └─ Breaks complex topics into simple steps
+## 🏗️ How It Works
 
-✅ Never Outdated
-   └─ Always trained on latest information
-
-✅ Available 24/7
-   └─ No waiting for support or searching docs
-
-🌟**Why Senti Exists**
-**The Vision**
-Sentient is building the future of open, community-owned AI. But even the best technology is useless if people can't figure out how to use it.
-Senti exists to remove that barrier.
-Every minute someone spends confused is a minute they're not:
-
-✨ Building amazing projects
-🚀 Contributing to the ecosystem
-💡 Discovering what's possible
-🤝 Sharing with their community
-
-**The Mission**
-Make the Sentient Grid accessible to everyone - from complete beginners to advanced developers. No question too simple, no problem too complex.
-
-📚 **Comprehensive Knowledge Base**
-
-Senti knows everything about:
-├─ ODS (Open Deep Search)
-│  ├─ What it is and how it works
-│  ├─ API integration guides
-│  └─ Use cases and examples
+Senti Core Framework
+├── Data Connectors
+│ ├── API Loader
+│ ├── File Loader (PDF, TXT, MD)
+│ └── Web Scraper
 │
-├─ ROMA (Multi-Agent Orchestrator)
-│  ├─ Agent coordination
-│  ├─ Workflow automation
-│  └─ Best practices
+├── Knowledge Engine
+│ ├── Embedding Generator
+│ ├── Vector Database (Pinecone / Chroma)
+│ └── RAG Pipeline
 │
-├─ Dobby-8B (AI Model)
-│  ├─ API documentation
-│  ├─ Code examples
-│  └─ Integration tutorials
+├── Conversation Engine
+│ ├── Context Manager
+│ ├── Response Synthesizer
+│ └── Memory System
 │
-└─ OML Framework
-   ├─ Open, Monetizable, Loyal principles
-   ├─ Crypto royalties
-   └─ Community governance
-Making the Sentient Grid accessible to everyone, one conversation at a time.
-• Website:  https://daveblaq08.github.io/Senti-Roma-Bot/
-• GitHub: https://github.com/Daveblaq08  
-• Discord: dave4624
-• Twitter: https://x.com/daveblaq08
-**Made with 💜 for the Sentient community**
+└── Integration Layer
+├── Branding Config
+├── Ecosystem Identity
+└── Chat Interface (Gradio / Next.js / Streamlit)
